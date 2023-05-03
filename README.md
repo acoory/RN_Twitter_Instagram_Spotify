@@ -1,6 +1,10 @@
-# APP Twitter, Instagram, Spotify
+# Challenges APP 💻
 
-Copy Application :
+## Description 🗒️
+
+During my research of alternation in order to find a company I realized different screens of known application in order to be able to show the knowledge which I could learn during all my training this one are realized in javascript react native
+
+### Screen application :
 
 - Twitter
 - Instagram
